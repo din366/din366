@@ -23,7 +23,7 @@ I am a Front end Developer from belarus.
 
 ### :hammer_and_wrench: Languages and Tools:
 
-# Programming:
+<h4>Programming:</h4>
 <div style="display: flex; justify-content:center; flex-wrap: wrap; width: 100% grid-gap: 10px;">
     <img style="max-width: 40px" src="https://github.com/din366/images/blob/main/readme%20images/icons/javascript.svg" alt="logo">
     <img style="max-width: 40px" src="https://github.com/din366/images/blob/main/readme%20images/icons/react.svg" alt="logo">
@@ -37,21 +37,21 @@ I am a Front end Developer from belarus.
     <img style="max-width: 40px" src="https://github.com/din366/images/blob/main/readme%20images/icons/php.svg" alt="logo">
 </div>
 
-# 3D visualization and CAD programm:
+<h4>3D visualization and CAD programm:</h4>
 <div style="display: flex; justify-content:center; flex-wrap: wrap; width: 100% grid-gap: 10px;">
     <img style="max-width: 40px" src="https://github.com/din366/images/blob/main/readme%20images/icons/icons8-autocad.svg" alt="logo">
     <img style="max-width: 40px" src="https://github.com/din366/images/blob/main/readme%20images/icons/icons8-cinema-4d.svg" alt="logo">
     <img style="max-width: 40px" src="https://github.com/din366/images/blob/main/readme%20images/icons/icons8-solidworks.svg" alt="logo">
 </div>
 
-# CMS:
+<h4>CMS:</h4>
 <div style="display: flex; justify-content:center; flex-wrap: wrap; width: 100% grid-gap: 10px;">
     <img style="max-width: 40px" src="https://github.com/din366/images/blob/main/readme%20images/icons/modx.svg" alt="logo">
     <img style="max-width: 40px" src="https://github.com/din366/images/blob/main/readme%20images/icons/wordpress.svg" alt="logo">
     <img style="max-width: 40px" src="https://github.com/din366/images/blob/main/readme%20images/icons/icons8-opencart.svg" alt="logo">
 </div>
 
-# Raster graphics:
+<h4>Raster graphics:</h4>
 <div style="display: flex; justify-content:center; flex-wrap: wrap; width: 100% grid-gap: 10px;">
     <img style="max-width: 40px" src="https://github.com/din366/images/blob/main/readme%20images/icons/icons8-figma.svg" alt="logo">
     <img style="max-width: 40px" src="https://github.com/din366/images/blob/main/readme%20images/icons/adobephotoshop.svg" alt="logo">
