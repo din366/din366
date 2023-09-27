@@ -25,14 +25,17 @@ I am a Front-end developer from Belarus.
 <div>
 <a href="https://rufservis.by">rufservis.by</a> - Website of a building materials manufacturer for organizations [ <a href="#">learn more about the project...</a> ]
 <div>
+
 <div>
 <a href="https://chimney-pro.by">chimney-pro.by</a> - Website for a manufacturer of building materials for individuals [ <a href="#">learn more about the project...</a> ]
 </div>
+
 <div>
 <a href="https://teploservis.by">teploservis.by</a> - Website for construction services [ <a href="#">learn more about the project...</a> ]
 </div>
+
 <div>
-<a href="https://teploservis.by">ventpro.by</a> - Advertising landing page for a manufacturer of construction products [ <a href="#">learn more about the project...</a> ]
+<a href="https://ventpro.by">ventpro.by</a> - Advertising landing page for a manufacturer of construction products [ <a href="#">learn more about the project...</a> ]
 </div>
 
 
