@@ -3,8 +3,7 @@
 </div>
 
 <h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  hey there :suspect:
 </h1>
 
 ---
@@ -59,4 +58,12 @@ I am a Front end Developer from belarus.
     <img style="max-width: 40px" src="https://github.com/din366/images/blob/main/readme%20images/icons/adobeindesign.svg" alt="logo">
 </div>
     
+---
 
+### :fire: My stats:
+
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=din366&theme=city_lights
+
+https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=din366&theme=city_lights
+
+https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=din366&theme=city_lights
