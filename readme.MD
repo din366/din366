@@ -61,7 +61,10 @@ I am a Front-end developer from Belarus.
 ---
 
 ### :fire: My stats:
+<div align="center">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=din366&theme=city_lights)
+</div>
+
 
 
 
