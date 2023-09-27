@@ -23,16 +23,40 @@ I am a Front end Developer from belarus.
 
 ### :hammer_and_wrench: Languages and Tools:
 
+# Programming:
 <div style="display: flex; justify-content:center; flex-wrap: wrap; width: 100% grid-gap: 10px;">
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img style="max-width: 40px" src="https://github.com/din366/images/blob/main/readme%20images/icons/javascript.svg" alt="logo">
-  <span style:"font-size: 10px;">Javascript</span>
-</div>
-    
+    <img style="max-width: 40px" src="https://github.com/din366/images/blob/main/readme%20images/icons/javascript.svg" alt="logo">
     <img style="max-width: 40px" src="https://github.com/din366/images/blob/main/readme%20images/icons/react.svg" alt="logo">
     <img style="max-width: 40px" src="https://github.com/din366/images/blob/main/readme%20images/icons/redux.svg" alt="logo">
     <img style="max-width: 40px" src="https://github.com/din366/images/blob/main/readme%20images/icons/git.svg" alt="logo">
     <img style="max-width: 40px" src="https://github.com/din366/images/blob/main/readme%20images/icons/webpack.svg" alt="logo">
     <img style="max-width: 40px" src="https://github.com/din366/images/blob/main/readme%20images/icons/html5.svg" alt="logo">
     <img style="max-width: 40px" src="https://github.com/din366/images/blob/main/readme%20images/icons/css3.svg" alt="logo">
+    <img style="max-width: 40px" src="https://github.com/din366/images/blob/main/readme%20images/icons/jest.svg" alt="logo">
+    <img style="max-width: 40px" src="https://github.com/din366/images/blob/main/readme%20images/icons/mysql.svg" alt="logo">
+    <img style="max-width: 40px" src="https://github.com/din366/images/blob/main/readme%20images/icons/php.svg" alt="logo">
 </div>
+
+# 3D visualization and CAD programm:
+<div style="display: flex; justify-content:center; flex-wrap: wrap; width: 100% grid-gap: 10px;">
+    <img style="max-width: 40px" src="https://github.com/din366/images/blob/main/readme%20images/icons/icons8-autocad.svg" alt="logo">
+    <img style="max-width: 40px" src="https://github.com/din366/images/blob/main/readme%20images/icons/icons8-cinema-4d.svg" alt="logo">
+    <img style="max-width: 40px" src="https://github.com/din366/images/blob/main/readme%20images/icons/icons8-solidworks.svg" alt="logo">
+</div>
+
+# CMS:
+<div style="display: flex; justify-content:center; flex-wrap: wrap; width: 100% grid-gap: 10px;">
+    <img style="max-width: 40px" src="https://github.com/din366/images/blob/main/readme%20images/icons/modx.svg" alt="logo">
+    <img style="max-width: 40px" src="https://github.com/din366/images/blob/main/readme%20images/icons/wordpress.svg" alt="logo">
+    <img style="max-width: 40px" src="https://github.com/din366/images/blob/main/readme%20images/icons/icons8-opencart.svg" alt="logo">
+</div>
+
+# Raster graphics:
+<div style="display: flex; justify-content:center; flex-wrap: wrap; width: 100% grid-gap: 10px;">
+    <img style="max-width: 40px" src="https://github.com/din366/images/blob/main/readme%20images/icons/icons8-figma.svg" alt="logo">
+    <img style="max-width: 40px" src="https://github.com/din366/images/blob/main/readme%20images/icons/adobephotoshop.svg" alt="logo">
+    <img style="max-width: 40px" src="https://github.com/din366/images/blob/main/readme%20images/icons/adobeillustrator.svg" alt="logo">
+    <img style="max-width: 40px" src="https://github.com/din366/images/blob/main/readme%20images/icons/adobeindesign.svg" alt="logo">
+</div>
+    
+
