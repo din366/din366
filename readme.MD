@@ -10,7 +10,7 @@
 
 ### :information_desk_person: About me:
 
-I am a Front end Developer from belarus.
+I am a Front-end developer from Belarus.
 
 :computer: At the moment I am a Freelance Software Engineer and am working on several commercial projects.
 
@@ -61,7 +61,9 @@ I am a Front end Developer from belarus.
 ---
 
 ### :fire: My stats:
+<div align="center">
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=din366&theme=city_lights)
+</div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=din366&theme=city_lights)
 
 
