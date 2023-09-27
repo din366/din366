@@ -24,7 +24,11 @@ I am a Front end Developer from belarus.
 ### :hammer_and_wrench: Languages and Tools:
 
 <div style="display: flex; justify-content:center; flex-wrap: wrap; width: 100% grid-gap: 10px;">
-    <img style="max-width: 40px" src="https://github.com/din366/images/blob/main/readme%20images/icons/javascript.svg" alt="logo">
+<div>
+  <img style="max-width: 40px" src="https://github.com/din366/images/blob/main/readme%20images/icons/javascript.svg" alt="logo">
+  <span>Javascript</span>
+</div>
+    
     <img style="max-width: 40px" src="https://github.com/din366/images/blob/main/readme%20images/icons/react.svg" alt="logo">
     <img style="max-width: 40px" src="https://github.com/din366/images/blob/main/readme%20images/icons/redux.svg" alt="logo">
     <img style="max-width: 40px" src="https://github.com/din366/images/blob/main/readme%20images/icons/git.svg" alt="logo">
