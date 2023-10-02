@@ -38,9 +38,9 @@ I am a Front-end developer from Belarus.
 <a href="https://ventpro.by">ventpro.by</a> - Advertising landing page for a manufacturer of construction products (JS, HTML, not cms)
 </div>
 
-<div>
+<p align="center">
 :star: [ <a href="#">learn more about all commercial project...</a> ]
-</div>
+</p>
 
 
 
