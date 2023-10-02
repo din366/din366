@@ -2,9 +2,9 @@
   <img src="https://media.tenor.com/_HwQHDixHnMAAAAC/kitten-cat.gif" width="100"/>
 </div>
 
-<h1 align="center">
+<h3 align="center">
   hey there :suspect:
-</h1>
+</h3>
 
 ---
 
