@@ -8,7 +8,7 @@
 
 ---
 
-### :information_desk_person: About me:
+### About me:
 
 I am a Front-end developer from Belarus.
 
@@ -20,7 +20,7 @@ I am a Front-end developer from Belarus.
 
 ---
 
-### :star: My commercial projects:
+### My commercial projects:
 
 <div>
 <a href="https://rufservis.by">rufservis.by</a> - Website of a building materials manufacturer for organizations (ModX, JS, PHP, MySQL)
@@ -47,7 +47,7 @@ I am a Front-end developer from Belarus.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools:
+### Languages and Tools:
 
 <h4>Programming:</h4>
 <div style="display: flex; justify-content:center; flex-wrap: wrap; width: 100% grid-gap: 10px;">
@@ -87,5 +87,5 @@ I am a Front-end developer from Belarus.
     
 ---
 
-### :fire: My stats:
+### My stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=din366&theme=city_lights)
