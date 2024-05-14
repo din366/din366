@@ -35,6 +35,10 @@ I am a Front-end developer from Belarus.
 </div>
 
 <div>
+<a href="https://minsk-work.by">minsk-work.by</a> - Landing page for finding workers for an organization [for context ADS] (webpack, JS, scss)
+</div>
+
+<div>
 <a href="https://ventpro.by">ventpro.by</a> - Advertising landing page for a manufacturer of construction products (JS, HTML, not cms)
 </div>
 
@@ -56,6 +60,7 @@ I am a Front-end developer from Belarus.
     <img style="max-width: 40px" src="https://github.com/din366/images/blob/main/readme%20images/icons/redux.svg" alt="logo">
     <img style="max-width: 40px" src="https://github.com/din366/images/blob/main/readme%20images/icons/git.svg" alt="logo">
     <img style="max-width: 40px" src="https://github.com/din366/images/blob/main/readme%20images/icons/webpack.svg" alt="logo">
+    <img style="max-width: 40px" src="https://github.com/din366/images/blob/main/readme%20images/icons/icons8-sass.svg" alt="logo">
     <img style="max-width: 40px" src="https://github.com/din366/images/blob/main/readme%20images/icons/html5.svg" alt="logo">
     <img style="max-width: 40px" src="https://github.com/din366/images/blob/main/readme%20images/icons/css3.svg" alt="logo">
     <img style="max-width: 40px" src="https://github.com/din366/images/blob/main/readme%20images/icons/jest.svg" alt="logo">
